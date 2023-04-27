@@ -4,3 +4,5 @@ class Dog:
         self.color = color
         self.say  = say 
         self.type_dog = type_dog
+    def sayhi(self):
+        print(self.say)
